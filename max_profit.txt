@@ -1,1 +1,1 @@
-a a a a a a a a a a a 
+print("how to maximiz profit?")
